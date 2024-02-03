@@ -10,7 +10,7 @@
 
 <div align="center">
 
-*I enjoy combining ***Geographic Information Systems (GIS) & Remote Sensing (RS)*** technologies with current topics such as ***data science, machine learning data engineering***. My experience in ***geospatial technologies**** and my passion for ***DataOps*** allow me to gain different experiences, making me a curious data engineer who strives for continuous improvement every day.*
+*I enjoy combining ***Geographic Information Systems (GIS) & Remote Sensing (RS)*** technologies with current topics such as ***data science, machine learning data engineering***. My experience in ***geospatial technologies**** and my passion for ***DataOps*** allow me to gain different experiences, making me a curious data engineer who strives for continuous improvement every day.
  
  🌍 I'm based in **Ankara,Turkiye**
  
